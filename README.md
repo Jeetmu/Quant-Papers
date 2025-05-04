@@ -30,6 +30,13 @@ The goals of this project are:
 
 ---
 
+### 3. **Reconstructing the Local Volatility Surface from Market Option Prices**
+**Author**: Department of Mathematics, Korea University
+**Description**: This paper presents a robust method for reconstructing the local volatility surface by solving an inverse problem based on market option prices. The local volatility function is inferred by minimizing the difference between theoretical and observed prices using a finite difference method on the generalized Black–Scholes PDE.
+**Keywords**: Local Volatility, Inverse Problems, Finite Difference Method, Option Pricing
+
+➡️ [View Implementation](https://github.com/Jeetmu/local_volatility_model)
+
 ## 🧠 About Me
 
 I am a Master's student in Financial Engineering and Applied Mathematics with a passion for quantitative modeling and research replication. This repository is part of my long-term effort to understand and build models grounded in both theory and practice.
