@@ -31,11 +31,22 @@ The goals of this project are:
 ---
 
 ### 3. **Reconstructing the Local Volatility Surface from Market Option Prices**
-**Author**: Department of Mathematics, Korea University  
+**Institution**: Department of Mathematics, Korea University  
 **Description**: This paper presents a robust method for reconstructing the local volatility surface by solving an inverse problem based on market option prices. The local volatility function is inferred by minimizing the difference between theoretical and observed prices using a finite difference method on the generalized Black–Scholes PDE.  
 **Keywords**: Local Volatility, Inverse Problems, Finite Difference Method, Option Pricing
 
 ➡️ [View Implementation](https://github.com/Jeetmu/local_volatility_model)
+
+---
+
+### 4. **Gaussian Processes for Implied Volatility Estimation**
+**Institution**: Stevens Institute of Technology  
+**Description**: This paper introduces a Bayesian nonparametric approach using Gaussian Processes (GP) to estimate the implied volatility surface with uncertainty quantification. By incorporating temporal dynamics, the model captures the evolution of the surface over time and demonstrates improved accuracy over traditional parametric methods. Empirical validation and hedging simulations highlight the practical benefits of this approach.  
+**Keywords**: Implied Volatility, Gaussian Processes, Bayesian Inference, Machine Learning, Option Pricing
+
+➡️ [View Implementation](https://github.com/Jeetmu/Gaussian-Process-for-IVS)
+
+---
 
 ## 🧠 About Me
 
